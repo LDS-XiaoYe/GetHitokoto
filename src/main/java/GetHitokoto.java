@@ -19,7 +19,7 @@ public class GetHitokoto {
         var object = new GetHitokoto();
 
         for(int i = 0;i < 3;i++){
-            System.out.println(object.getHitokoto());;
+            System.out.println(object.getHitokoto());
         }
     }
 }
